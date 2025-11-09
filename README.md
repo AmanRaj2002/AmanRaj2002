@@ -76,11 +76,13 @@
 
 <div align="center">
 
-| Platform | Rating Type | Current Rating |
-|:--------:|:-----------:|:--------------:|
-| [![Chess.com](https://img.shields.io/badge/Chess.com-7FA650?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/amanraj28) | Rapid | ![Chess.com Rapid](https://chess-stat.vercel.app/api?username=amanraj28&type=rapid) |
-| [![Chess.com](https://img.shields.io/badge/Chess.com-7FA650?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/amanraj28) | Blitz | ![Chess.com Blitz](https://chess-stat.vercel.app/api?username=amanraj28&type=blitz) |
-| [![Lichess](https://img.shields.io/badge/Lichess-000000?style=flat&logo=lichess&logoColor=white)](https://lichess.org/@/Aman2805) | Rapid | Check Live Stats |
+[![Chess.com Profile](https://img.shields.io/badge/Chess.com-amanraj28-7FA650?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/amanraj28)
+[![Lichess Profile](https://img.shields.io/badge/Lichess-Aman2805-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/Aman2805)
+
+| Platform | Rapid | Blitz | Bullet |
+|:--------:|:-----:|:-----:|:------:|
+| **Chess.com** | [View Stats](https://www.chess.com/stats/live/rapid/amanraj28) | [View Stats](https://www.chess.com/stats/live/blitz/amanraj28) | [View Stats](https://www.chess.com/stats/live/bullet/amanraj28) |
+| **Lichess** | [View Stats](https://lichess.org/@/Aman2805/perf/rapid) | [View Stats](https://lichess.org/@/Aman2805/perf/blitz) | [View Stats](https://lichess.org/@/Aman2805/perf/bullet) |
 
 </div>
 
